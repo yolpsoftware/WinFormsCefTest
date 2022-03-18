@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsCefTest", "WinFormsCefTest\WinFormsCefTest.csproj", "{F0318EBA-84AA-499D-B738-DB1518978A4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebView2Test", "WebView2Test\WebView2Test.csproj", "{1F85F1E8-782F-4D55-B70C-BDFA4D2AA401}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0318EBA-84AA-499D-B738-DB1518978A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0318EBA-84AA-499D-B738-DB1518978A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0318EBA-84AA-499D-B738-DB1518978A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F85F1E8-782F-4D55-B70C-BDFA4D2AA401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F85F1E8-782F-4D55-B70C-BDFA4D2AA401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F85F1E8-782F-4D55-B70C-BDFA4D2AA401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F85F1E8-782F-4D55-B70C-BDFA4D2AA401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
